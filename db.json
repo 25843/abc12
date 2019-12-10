@@ -1,0 +1,22 @@
+{
+  "businesshours": [
+    {
+      "BranchID": "408573BB-FD13-45D3-91AF-0476FC697259",
+      "Week_Day": "Monday",
+      "Open_Time": "09:30:00.0000000",
+      "Close_Time": "17:30:00.0000000"
+    },
+    {
+      "BranchID": "408573BB-FD13-45D3-91AF-0476FC697259",
+      "Week_Day": "Tuesday",
+      "Open_Time": "09:30:00.0000000",
+      "Close_Time": "17:30:00.0000000"
+    },
+    {
+      "BranchID": "408573BB-FD13-45D3-91AF-0476FC697259",
+      "Week_Day": "Wednesday",
+      "Open_Time": "09:30:00.0000000",
+      "Close_Time": "17:30:00.0000000"
+    }
+  ]
+}
